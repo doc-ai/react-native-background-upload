@@ -1,5 +1,13 @@
 # react-native-background-upload [![npm version](https://badge.fury.io/js/react-native-background-upload.svg)](https://badge.fury.io/js/react-native-background-upload) ![GitHub Actions status](https://github.com/Vydia/react-native-background-upload/workflows/Test%20iOS%20Example%20App/badge.svg) ![GitHub Actions status](https://github.com/Vydia/react-native-background-upload/workflows/Test%20Android%20Example%20App/badge.svg) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
+## Doc.Ai version
+This branch is built off of v5.7.0 for Android support 
+It also cherry picks a PR made by https://github.com/Vydia/react-native-background-upload/pull/207/files?file-filters%5B%5D=.js
+
+for iOS support.
+-----
+
+
 The only React Native http post file uploader with android and iOS background support.  If you are uploading large files like videos, use this so your users can background your app during a long upload.
 
 NOTE: Use major version 4 with RN 47.0 and greater.  If you have RN less than 47, use 3.0.  To view all available versions:
